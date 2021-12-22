@@ -5,7 +5,8 @@
     }
     .Chat_header{
         border-radius: 20px;
-        
+        width: 403px;
+        height:500px;
        
     }
 .Chat_wrapper{
@@ -29,7 +30,7 @@ h1{
     display: grid;
     align-items: center;
     z-index: 10;
-    height: 300px;
+    height: 200px;
 
     background-color: white;
 }

@@ -1,12 +1,15 @@
 
 import './App.css';
 import Chat from './Component/Chat/Chat';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Pop from './Component/Popup/Pop';
 
 function App() {
   return (
     <div className="App">
      
-      <Chat/>
+      <Chat/> 
+      {/* <Pop/> */}
     </div>
   );
 }

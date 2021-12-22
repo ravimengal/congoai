@@ -11,14 +11,14 @@ const Chat = () => {
             <h1>Hello </h1>
             <h1>I am Iris, a virtual Assistant</h1>
             <h1>How may i help you?</h1>
-            <div className="Live_Chat_wrapper">
+            <div className=" card Live_Chat_wrapper">
               <ui>
                 <li>Can i redeem my FB before the original term?</li>
                 <li>How do i pa my Credit card bill? </li>
                 <li>How can i get my account Statement? </li>
                 <li>What is the tenture Deposit? </li>
               </ui>
-              <div className="btn">
+              <div className="button">
                 <button> Start a New Conversation</button>
               </div>
             </div>
