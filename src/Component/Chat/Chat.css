@@ -2,6 +2,8 @@
 .Chat_container{
     
     margin: 100px 80px;
+    height:700px;
+    width: 800px;
     }
     .Chat_header{
         border-radius: 20px;
@@ -11,9 +13,11 @@
     }
 .Chat_wrapper{
 
-    border-radius: 20px 20px 0px 0px;
+    background:linear-gradient(rgb(202, 141, 28) 50%, white);
+    border-radius: 20px 20px 20px 20px;
     margin:109px 189px;
     background-color: #f19420;
+    height:750px;
 
 }
 li{
@@ -29,8 +33,10 @@ h1{
 .Live_Chat_wrapper{
     display: grid;
     align-items: center;
+    margin-left: 20px;
+    margin-right: 10px;
     z-index: 10;
-    height: 200px;
+    height: 460px;
 
     background-color: white;
 }
