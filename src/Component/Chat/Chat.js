@@ -18,9 +18,9 @@ const Chat = () => {
                 <li>How can i get my account Statement? </li>
                 <li>What is the tenture Deposit? </li>
               </ui>
-              <div className="button">
-                <button> Start a New Conversation</button>
-              </div>
+             
+                <button className=" d-grid  position-absolute bottom-0 btn"> Start a New Conversation</button>
+              
             </div>
           </div>
         </div>
